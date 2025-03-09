@@ -1,0 +1,44 @@
+questions you need to be able to answer to be relevant for a senior engineering role in 2025:
+
+• You have a backend system processing 100K requests per second. How do you ensure low latency and fault tolerance?
+– What caching strategy would you use?
+– How would you handle sudden traffic spikes?
+– How do you diagnose performance bottlenecks?
+
+• Explain Python’s GIL. How would you optimize a CPU-bound task?
+
+• Explain event-driven architecture. When would you use an event bus vs direct service calls?
+
+• Explain how you would secure an API that serves millions of requests per day.
+
+• What’s the difference between a service mesh and an API gateway?
+
+• How do you prevent cascading failures in a distributed system?
+
+• What are the key trade-offs between AWS Lambda, ECS, and EC2 for running backend workloads?
+
+• How do you debug and optimize long-running SQL queries at the database level?
+
+• How do you optimize rendering performance for a large React application?
+
+• What are the efficient ways to render large lists in React?
+
+• How do you handle data fetching efficiently in a React application?
+
+• Explain hydration in React, and how to handle common hydration errors?
+
+• How do you build efficient CI/CD pipelines for fast and reliable deployments?
+
+• How do you integrate AI-powered autocompletion into your development environment?
+
+• What are the risks of using LLMs in production systems?
+
+• How do you fine-tune an AI model on proprietary company data while maintaining privacy?
+
+• What are retrieval-augmented generation (RAG) techniques, and how do they improve LLM reliability?
+
+• How do you convince leadership to adopt a technical migration (e.g., monolith to microservices)?
+
+• When is it appropriate to rewrite a system from scratch vs iteratively refactor?
+
+• How do you handle a high-severity incident in production?
